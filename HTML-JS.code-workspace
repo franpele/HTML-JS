@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.autoSave": "afterDelay",
+		"files.autoSaveDelay": 400
+	},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": []
+	}
+}
